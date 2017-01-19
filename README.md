@@ -1,6 +1,6 @@
 # Frequency Analysis of Words
 
-[TODO. There will be project description]
+Скрипт показывает наиболее часто встречаемые слова в тексте.
 
 # Project Goals
 
